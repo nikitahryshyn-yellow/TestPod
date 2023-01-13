@@ -14,10 +14,10 @@ Pod::Spec.new do |s|
 TODO: Add long description of the pod here.
                        DESC
 
-  s.homepage         = 'https://github.com/nikitahryshyn-yellow/NewTestPod'
+  s.homepage         = 'https://github.com/nikitahryshyn-yellow/TestPod'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'Nikita Hryshyn' => 'nikita.hryshyn@gmail.com' }
-  s.source           = { :git => 'https://github.com/nikitahryshyn-yellow/NewTestPod.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/nikitahryshyn-yellow/TestPod.git', :tag => s.version.to_s }
 
   s.ios.deployment_target = '10.0'
   s.swift_versions = '5.0'
