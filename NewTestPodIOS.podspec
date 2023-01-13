@@ -1,5 +1,5 @@
 #
-# Be sure to run `pod lib lint NewTestPod.podspec' to ensure this is a
+# Be sure to run `pod lib lint NewTestPodIOS.podspec' to ensure this is a
 # valid spec before submitting.
 #
 # Any lines starting with a # are optional, but their use is encouraged
@@ -21,5 +21,5 @@ TODO: Add long description of the pod here.
 
   s.ios.deployment_target = '10.0'
   s.swift_versions = '5.0'
-  s.source_files = 'NewTestPod/Classes/**/*'
+  s.source_files = 'NewTestPodIOS/Classes/**/*'
 end

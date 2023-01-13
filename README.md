@@ -1,6 +1,5 @@
-# NewTestPod
+# NewTestPodIOS
 
-[![CI Status](https://img.shields.io/travis/Nikita Hryshyn/NewTestPod.svg?style=flat)](https://travis-ci.org/Nikita Hryshyn/NewTestPod)
 [![Version](https://img.shields.io/cocoapods/v/NewTestPod.svg?style=flat)](https://cocoapods.org/pods/NewTestPod)
 [![License](https://img.shields.io/cocoapods/l/NewTestPod.svg?style=flat)](https://cocoapods.org/pods/NewTestPod)
 [![Platform](https://img.shields.io/cocoapods/p/NewTestPod.svg?style=flat)](https://cocoapods.org/pods/NewTestPod)
@@ -17,7 +16,7 @@ NewTestPod is available through [CocoaPods](https://cocoapods.org). To install
 it, simply add the following line to your Podfile:
 
 ```ruby
-pod 'NewTestPod'
+pod 'NewTestPodIOS'
 ```
 
 ## Author
